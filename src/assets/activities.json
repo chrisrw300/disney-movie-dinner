@@ -1,0 +1,122 @@
+[
+    {
+        "id": "1",
+        "movie": "Luca",
+        "dinner": "Pesto Pasta with Green Beans and Potatoes",
+        "dessert": "Gelato and Swedish Fish",
+        "drink": "Sprite Vodka with Blue Food Coloring",
+        "game": "Ticket to Ride"
+    },
+    {
+        "id": "2",
+        "movie": "Moana",
+        "dinner": "Pulled Pork or Roast Chicken with Corn",
+        "dessert": "Almond Joy or Coconut Ice Cream",
+        "drink": "Fruit Punch Vodka",
+        "game": "Settlers of Catan"
+    },
+    {
+        "id": "3",
+        "movie": "Monsters Inc",
+        "dinner": "Sushi",
+        "dessert": "Coffee Ice Cream",
+        "drink": "Lemonade Vodka Slushie",
+        "game": "Sushi Go and Ramen Fury"
+    },
+    {
+        "id": "4",
+        "movie": "Emperors New Groove",
+        "dinner": "Spinach Puffs",
+        "dessert": "White Cake",
+        "drink": "Cran-Raspberry Vodka",
+        "game": "Risk"
+    },
+    {
+        "id": "5",
+        "movie": "Coco",
+        "dinner": "Tamales or Quesadillas",
+        "dessert": "Orange Cake",
+        "drink": "Watermelon Juice with Vodka",
+        "game": "Clue"
+    },
+    {
+        "id": "6",
+        "movie": "Mulan",
+        "dinner": "Pork Dumplings",
+        "dessert": "Green Tea Ice Cream",
+        "drink": "Pink Lemonade 'Cherry Blossom' Vodka",
+        "game": "Yahtzee"
+    },
+    {
+        "id": "7",
+        "movie": "Aladdin",
+        "dinner": "Chicken Caesar Salad with Stolen Baguette",
+        "dessert": "Cheesecake",
+        "drink": "Pineapple Juice, Sprite, Vodka, Blue Food Coloring",
+        "game": "Disney Villainous"
+    },
+    {
+        "id": "8",
+        "movie": "Lilo and Stitch",
+        "dinner": "Pulled Pork Fries",
+        "dessert": "Black Forest Cake",
+        "drink": "Pineapple Juice, Sprite, Vodka, Blue Food Coloring",
+        "game": "Scattergories "
+    },
+    {
+        "id": "9",
+        "movie": "Hercules",
+        "dinner": "Steak Pita",
+        "dessert": "Frozen Koolaid Grapes",
+        "drink": "Mimosa",
+        "game": "Monopoly"
+    },
+    {
+        "id": "10",
+        "movie": "Tarzan",
+        "dinner": "Curry (No Monkey Added)",
+        "dessert": "Baked Banana Sunday",
+        "drink": "Malibu Cocktail",
+        "game": "Poo and Uno"
+    },
+    {
+        "id": "11",
+        "movie": "The Incredibles",
+        "dinner": "Steak and Potatoes",
+        "dessert": "Chocolate Chips Cookies",
+        "drink": "Mango Watermelon Vodka Smoothie, AKA 'Lava Falls'",
+        "game": "Munchkin"
+    },
+    {
+        "id": "12",
+        "movie": "Princess and the Frog",
+        "dinner": "Breakfast for Dinner",
+        "dessert": "Red Velvet Cake",
+        "drink": "Orange Mimosa",
+        "game": "Scrabble"
+    },
+    {
+        "id": "13",
+        "movie": "Soul",
+        "dinner": "Pepperoni Pizza",
+        "dessert": "Peach Cobbler",
+        "drink": "Blackberry Moscow Mule",
+        "game": "Life"
+    },
+    {
+        "id": "14",
+        "movie": "Finding Nemo",
+        "dinner": "Fish and Chips",
+        "dessert": "Turtle Chocolates",
+        "drink": "Malibu, Lime, Pineapple Juice, Swedish Fish",
+        "game": "Go Fissh"
+    },
+    {
+        "id": "15",
+        "movie": "Aristocats",
+        "dinner": "French Onion Soup",
+        "dessert": "Vanilla Cream Based Dessert",
+        "drink": "Rumchata",
+        "game": "Exploding Kittens"
+    }
+]
